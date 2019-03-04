@@ -1,0 +1,23 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyyuan086/HW3---Bus-Location.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyyuan086/HW3---Bus-Location/issues"
+  },
+  "homepage": "https://github.com/xyyuan086/HW3---Bus-Location#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.3.0"
+  }
+}
